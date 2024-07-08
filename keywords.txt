@@ -1,0 +1,38 @@
+
+VespaBattery	KEYWORD1
+
+handler_critical	KEYWORD2
+
+readCapacity	KEYWORD2
+readVoltage	KEYWORD2
+setBatteryType	KEYWORD2
+
+BatteryType	KEYWORD1
+
+BATTERY_UNDEFINED	LITERAL1
+BATTERY_LIPO	LITERAL1
+
+
+RockyLED	KEYWORD1
+
+blink	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+toggle	KEYWORD2
+update	KEYWORD2
+
+
+RockyMotors	KEYWORD1
+
+backward	KEYWORD2
+forward	KEYWORD2
+setSpeedA	KEYWORD2
+setSpeedB	KEYWORD2
+setSpeedC	KEYWORD2
+setSpeedLeft	KEYWORD2
+setSpeedRight	KEYWORD2
+sleep	KEYWORD2
+stop	KEYWORD2
+turn	KEYWORD2
+wakeup	KEYWORD2
+
