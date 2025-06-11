@@ -3,7 +3,7 @@
 * 
 * Library to control LED within the Rocky board and external ones.
 * 
-* Copyright 2024 RoboCore.
+* Copyright 2025 RoboCore.
 * 
 * 
 * This file is part of the Rocky library by RoboCore ("RoboCore-Rocky-lib").

@@ -6,7 +6,7 @@
 * 
 * Library to use the functions of the Rocky board.
 * 
-* Copyright 2024 RoboCore.
+* Copyright 2025 RoboCore.
 * 
 * 
 * This file is part of the Rocky library by RoboCore ("RoboCore-Rocky-lib").
@@ -47,7 +47,7 @@ extern "C" {
 
 #ifdef ESP_ARDUINO_VERSION_MAJOR
 #if ESP_ARDUINO_VERSION_MAJOR < 3
-#warning RoboCore Vespa v1.3 is meant to use the Arduino ESP package v3.0+
+#warning RoboCore Rocky v1.0 is meant to use the Arduino ESP package v3.0+
 #endif
 #endif
 
@@ -55,8 +55,8 @@ extern "C" {
 // Macros
 
 #define ROCKY_VERSION_MAJOR 1 // (X.x.x)
-#define ROCKY_VERSION_MINOR 3 // (x.X.x)
-#define ROCKY_VERSION_PATCH 0 // (x.x.X)
+#define ROCKY_VERSION_MINOR 0 // (x.X.x)
+#define ROCKY_VERSION_PATCH 1 // (x.x.X)
 
 #define ROCKY_BATTERY_ADC_ATTENUATION (ADC_11db)
 #define ROCKY_BATTERY_PIN (34)

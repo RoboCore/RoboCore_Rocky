@@ -3,7 +3,7 @@
 * 
 * Library to use the motors of the Rocky board.
 * 
-* Copyright 2024 RoboCore.
+* Copyright 2025 RoboCore.
 * 
 * 
 * This file is part of the Rocky library by RoboCore ("RoboCore-Rocky-lib").

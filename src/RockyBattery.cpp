@@ -3,7 +3,7 @@
 * 
 * Library to read the battery voltage of the Rocky board.
 * 
-* Copyright 2024 RoboCore.
+* Copyright 2025 RoboCore.
 * [v1.0] Based on the example from @DaveCalaway (https://github.com/espressif/arduino-esp32/issues/1804)
 * 
 * 

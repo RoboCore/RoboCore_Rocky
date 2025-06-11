@@ -23,7 +23,7 @@ Documentation
 Version History
 ---------------
 
-* [v1.0.0](https://github.com/RoboCore/RoboCore_Rocky) - First release.
+* [v1.0.0](https://github.com/RoboCore/RoboCore_Rocky/tags) - First release.
 
 License Information
 -------------------

@@ -8,6 +8,10 @@ This file is part of the Rocky library by RoboCore ("RoboCore-Rocky-lib").
 Change log
 ----------
 
+**v1.0.1**
+* Minor update, for version numbers.
+* Updated the copyright dates.
+
 **v1.0**
 * Contributors: @Francois.
 * Based on the Arduino implementation of the ESP32 (v3.0.1).
